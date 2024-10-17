@@ -1,0 +1,15 @@
+﻿<Module>
+	<Name value="Olto_Discard"/>
+	<Id value="Olto_Discard"/>
+	<Version value="v1.1.0.2"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<SubModules>
+		<SubModule>
+			<Name value="Olto_Discard"/>
+			<DLLName value="Olto_Discard.dll"/>
+			<SubModuleClassType value="Olto_Discard.Olto_Discard_SubModule"/>
+			<Tags/>
+		</SubModule>
+	</SubModules>
+</Module>
